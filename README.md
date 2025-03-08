@@ -13,7 +13,8 @@ A simple web-based Pokémon quiz game where users can guess the names of Pokémo
 - Randomizes questions to keep the game interesting.
 - Prevents repeating questions to ensure a unique gaming experience.
 
-## Sources
+## Preivew
+![image](https://github.com/user-attachments/assets/cd6b5a9b-f0ed-4807-9b9f-5faba4549dcc)
+![image](https://github.com/user-attachments/assets/e3f44c0d-087b-439f-82ff-81986f8b7cb7)
+![image](https://github.com/user-attachments/assets/6db8508b-5154-480d-8db3-2ea979099570)
 
-- favicon.png - https://www.pngplay.com/wp-content/uploads/2/Pokeball-PNG-Photo-Image.png
-- loading_icon.gif - https://media.tenor.com/je-huTL1vwgAAAAi/loading-buffering.gif
